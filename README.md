@@ -1,3 +1,3 @@
-# Flavoetown
+# Flavortown
 
 Welcome to flavortown!
